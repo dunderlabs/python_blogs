@@ -62,7 +62,7 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 [Python Club](http://pythonclub.com.br/)
 - Autor: Blog colaborativo, vários autores.
-- Atualização: Última em 26 de Outubro de 2015 - Atualizações dependem de contribuições - Qualquer pessoa é livre para publicar no PythonClub, desde que o conteudo a ser publicado seja escrita em portugues e tenha alguma relação com Python e/ou comunidade Python.
+- Atualização: Última em 26 de Outubro de 2015 - Atualizações dependem de contribuições - Qualquer pessoa é livre para publicar no PythonClub, desde que o conteudo a ser publicado seja escrito em portugues e tenha alguma relação com Python e/ou comunidade Python.
 
 
 
