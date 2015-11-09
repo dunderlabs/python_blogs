@@ -47,3 +47,18 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 - Autor: Gustavo Carvalho
 - Atualização: Mensal (Entrei no [beerblogging](http://www.beerblogging.io/) recentemente, então vai ser mensal.)
+
+
+[Victor Salgado](http://www.victorsalgado.net/)
+
+- Autor: Victor Salgado
+- Atualiação: Última em 12 de janeiro de 2015
+
+
+[Pythonize](http://www.pythonize.org)
+
+- Autor: Anderson Berg Dantas
+- Atualização: Última em janeiro de 2015
+
+
+
