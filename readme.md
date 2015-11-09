@@ -41,3 +41,9 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 - Autor: Marcos Rodrigues
 - Atualização: Mensal
+
+
+[Gustavo Carvalho](http://blog.gtsalles.com.br/)
+
+- Autor: Gustavo Carvalho
+- Atualização: Mensal (Entrei no [beerblogging](http://www.beerblogging.io/) recentemente, então vai ser mensal.)
