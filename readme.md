@@ -60,9 +60,16 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Autor: Anderson Berg Dantas
 - Atualização: Última em janeiro de 2015
 
+
 [Python Club](http://pythonclub.com.br/)
 - Autor: Blog colaborativo, vários autores.
 - Atualização: Última em 26 de Outubro de 2015 - Atualizações dependem de contribuições - Qualquer pessoa é livre para publicar no PythonClub, desde que o conteudo a ser publicado seja escrito em portugues e tenha alguma relação com Python e/ou comunidade Python.
+
+
+[Programe em Python](http://www.programeempython.com.br)
+
+- Autor: Julio Cesar Eiras Melamnda
+- Atualização: Mensal
 
 
 
