@@ -72,4 +72,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Mensal
 
 
+[Aprenda Python](http://aprenda-python.blogspot.com.br/)
+
+- Autor: Vinicius Assef
+- Atualização: Mensal
+
+
 
