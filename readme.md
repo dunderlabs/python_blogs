@@ -78,4 +78,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Mensal
 
 
+[Python Help](https://pythonhelp.wordpress.com/)
+
+- Autores: Valdir Stumm Jr e Elias Dorneles
+- Atualização: Última em 18 de agosto de 2015
+
+
 
