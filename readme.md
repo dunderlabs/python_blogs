@@ -84,4 +84,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Última em 18 de agosto de 2015
 
 
+[Programando Ciência](http://programandociencia.com)
+
+- Autor: Alexandre “Jaguar” Fioravante de Siqueira
+- Atualização: Mensal
+
+
 
