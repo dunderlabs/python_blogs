@@ -90,4 +90,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Mensal
 
 
+[Mind Bending](http://mindbending.org/pt/category/python)
+
+- Autor: Magnun Leno
+- Atualização: Última em 04 de março de 2015
+
+
 
