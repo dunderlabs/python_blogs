@@ -96,4 +96,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Última em 04 de março de 2015
 
 
+[Wiki Python - Planet](http://wiki.python.org.br/planet/)
+
+- Autor: Apyb
+- Atualização: Frequente
+
+
 
