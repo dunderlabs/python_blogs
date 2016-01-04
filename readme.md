@@ -31,7 +31,7 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Última em 16 de julho de 2014
 
 
-[BrunoRocha](http://brunorocha.org/)
+[Bruno Rocha](http://brunorocha.org/)
 
 - Autor: Bruno Rocha
 - Atualização: Aparentemente mensal. Última postagem em 02 de agosto de 2015
@@ -102,4 +102,51 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Frequente
 
 
+[Aprendendo Python](http://ericstk.wordpress.com)
+- Autor: Eric Hideki
+- Atualização: Mensal
 
+
+[Arruda](http://www.arruda.blog.br/)
+- Autor: Felipe Arruda
+- Atualização: Periodicamente
+
+
+[Cássio Botaro](http://cassiobotaro.github.io/)
+- Autor: Cássio Botaro
+- Autalização: Periodicamente
+
+
+[Code for Cloud](http://www.codeforcloud.info/)
+- Autor: Diego Garcia
+- Autalização: Periodicamente
+
+
+[Júlia Rizza](https://juliarizza.wordpress.com/)
+- Autor: Júlia Rizza
+- Atualização: Periodicamente
+
+
+[Denis Costa](http://deniscostadsc.com/)
+- Autor: Denis Costa
+- Atualização: Esporadicamente
+
+
+[Abra seu código](http://blog.abraseucodigo.com.br/)
+- Autor: Rafael Gonçalves
+- Atualização: Periodicamente
+
+
+[Henrique Bastos](http://henriquebastos.net/)
+- Autor: Henrique Bastos
+- Atualização: Esporadicamente
+
+
+[Thiago Avelino](http://www.avelino.xxx/)
+- Autor: Thiago Avelino
+- Atualização: Esporadicamente
+
+
+[Renzo Nuccitelli](http://blog.renzo.pro.br/)
+- Autor: Renzo Nuccitelli
+- Atualização: Esporadicamente
