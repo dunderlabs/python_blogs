@@ -150,3 +150,7 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 [Renzo Nuccitelli](http://blog.renzo.pro.br/)
 - Autor: Renzo Nuccitelli
 - Atualização: Esporadicamente
+
+[Só mais um Carneiro](http://www.carneiro.blog.br/um)
+- Autor: Otávio Carneiro
+- Atualização: Esporadicamente
