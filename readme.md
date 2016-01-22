@@ -13,22 +13,25 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 ## Blogs
 
-[João F. N. Pimentel](http://joao.npimentel.net/)
-
-- Autor: João Felipe Nicolaci Pimentel
-- Atualização: Bimestral
-
-
-[Hudson Brendon](http://hudsonbrendon.com/)
-
-- Autor: Hudson Brendon
-- Atualização: Bimestral
+[Abra seu código](http://blog.abraseucodigo.com.br/)
+- Autor: Rafael Gonçalves
+- Atualização: Periodicamente
 
 
-[Coding..](http://www.linuxcpdti.blogspot.com.br/)
+[Aprenda Python](http://aprenda-python.blogspot.com.br/)
 
-- Autor: Rodrigo Gomes
-- Atualização: Última em 16 de julho de 2014
+- Autor: Vinicius Assef
+- Atualização: Mensal
+
+
+[Aprendendo Python](http://ericstk.wordpress.com)
+- Autor: Eric Hideki
+- Atualização: Mensal
+
+
+[Arruda](http://www.arruda.blog.br/)
+- Autor: Felipe Arruda
+- Atualização: Periodicamente
 
 
 [Bruno Rocha](http://brunorocha.org/)
@@ -37,10 +40,31 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Aparentemente mensal. Última postagem em 02 de agosto de 2015
 
 
+[Cássio Botaro](http://cassiobotaro.github.io/)
+- Autor: Cássio Botaro
+- Autalização: Periodicamente
+
+
 [Code Blog](http://marcosdev.postach.io/)
 
 - Autor: Marcos Rodrigues
 - Atualização: Mensal
+
+
+[Code for Cloud](http://www.codeforcloud.info/)
+- Autor: Diego Garcia
+- Autalização: Periodicamente
+
+
+[Coding..](http://www.linuxcpdti.blogspot.com.br/)
+
+- Autor: Rodrigo Gomes
+- Atualização: Última em 16 de julho de 2014
+
+
+[Denis Costa](http://deniscostadsc.com/)
+- Autor: Denis Costa
+- Atualização: Esporadicamente
 
 
 [Gustavo Carvalho](http://blog.gtsalles.com.br/)
@@ -49,10 +73,44 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Mensal (Entrei no [beerblogging](http://www.beerblogging.io/) recentemente, então vai ser mensal.)
 
 
-[Victor Salgado](http://www.victorsalgado.net/)
+[Henrique Bastos](http://henriquebastos.net/)
+- Autor: Henrique Bastos
+- Atualização: Esporadicamente
 
-- Autor: Victor Salgado
-- Atualiação: Última em 12 de janeiro de 2015
+
+[Hudson Brendon](http://hudsonbrendon.com/)
+
+- Autor: Hudson Brendon
+- Atualização: Bimestral
+
+
+[João F. N. Pimentel](http://joao.npimentel.net/)
+
+- Autor: João Felipe Nicolaci Pimentel
+- Atualização: Bimestral
+
+
+[Júlia Rizza](https://juliarizza.wordpress.com/)
+- Autor: Júlia Rizza
+- Atualização: Periodicamente
+
+
+[Mind Bending](http://mindbending.org/pt/category/python)
+
+- Autor: Magnun Leno
+- Atualização: Última em 04 de março de 2015
+
+
+[Programe em Python](http://www.programeempython.com.br)
+
+- Autor: Julio Cesar Eiras Melamnda
+- Atualização: Mensal
+
+
+[Programando Ciência](http://programandociencia.com)
+
+- Autor: Alexandre “Jaguar” Fioravante de Siqueira
+- Atualização: Mensal
 
 
 [Pythonize](http://www.pythonize.org)
@@ -66,79 +124,19 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Última em 26 de Outubro de 2015 - Atualizações dependem de contribuições - Qualquer pessoa é livre para publicar no PythonClub, desde que o conteudo a ser publicado seja escrito em portugues e tenha alguma relação com Python e/ou comunidade Python.
 
 
-[Programe em Python](http://www.programeempython.com.br)
-
-- Autor: Julio Cesar Eiras Melamnda
-- Atualização: Mensal
-
-
-[Aprenda Python](http://aprenda-python.blogspot.com.br/)
-
-- Autor: Vinicius Assef
-- Atualização: Mensal
-
-
 [Python Help](https://pythonhelp.wordpress.com/)
 
 - Autores: Valdir Stumm Jr e Elias Dorneles
 - Atualização: Última em 18 de agosto de 2015
 
 
-[Programando Ciência](http://programandociencia.com)
-
-- Autor: Alexandre “Jaguar” Fioravante de Siqueira
-- Atualização: Mensal
-
-
-[Mind Bending](http://mindbending.org/pt/category/python)
-
-- Autor: Magnun Leno
-- Atualização: Última em 04 de março de 2015
-
-
-[Wiki Python - Planet](http://wiki.python.org.br/planet/)
-
-- Autor: Apyb
-- Atualização: Frequente
-
-
-[Aprendendo Python](http://ericstk.wordpress.com)
-- Autor: Eric Hideki
-- Atualização: Mensal
-
-
-[Arruda](http://www.arruda.blog.br/)
-- Autor: Felipe Arruda
-- Atualização: Periodicamente
-
-
-[Cássio Botaro](http://cassiobotaro.github.io/)
-- Autor: Cássio Botaro
-- Autalização: Periodicamente
-
-
-[Code for Cloud](http://www.codeforcloud.info/)
-- Autor: Diego Garcia
-- Autalização: Periodicamente
-
-
-[Júlia Rizza](https://juliarizza.wordpress.com/)
-- Autor: Júlia Rizza
-- Atualização: Periodicamente
-
-
-[Denis Costa](http://deniscostadsc.com/)
-- Autor: Denis Costa
+[Renzo Nuccitelli](http://blog.renzo.pro.br/)
+- Autor: Renzo Nuccitelli
 - Atualização: Esporadicamente
 
 
-[Abra seu código](http://blog.abraseucodigo.com.br/)
-- Autor: Rafael Gonçalves
-- Atualização: Periodicamente
-
-
-[Henrique Bastos](http://henriquebastos.net/)
-- Autor: Henrique Bastos
+[Só mais um Carneiro](http://www.carneiro.blog.br/um)
+- Autor: Otávio Carneiro
 - Atualização: Esporadicamente
 
 
@@ -147,10 +145,13 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Esporadicamente
 
 
-[Renzo Nuccitelli](http://blog.renzo.pro.br/)
-- Autor: Renzo Nuccitelli
-- Atualização: Esporadicamente
+[Victor Salgado](http://www.victorsalgado.net/)
 
-[Só mais um Carneiro](http://www.carneiro.blog.br/um)
-- Autor: Otávio Carneiro
-- Atualização: Esporadicamente
+- Autor: Victor Salgado
+- Atualiação: Última em 12 de janeiro de 2015
+
+
+[Wiki Python - Planet](http://wiki.python.org.br/planet/)
+
+- Autor: Apyb
+- Atualização: Frequente
