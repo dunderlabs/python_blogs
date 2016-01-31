@@ -62,6 +62,11 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Última em 16 de julho de 2014
 
 
+[DunderLabs](http://blog.dunderlabs.com)
+- Autor: [DunderLabs team](https://github.com/dunderlabs)
+- Atualização: Semanal
+
+
 [Denis Costa](http://deniscostadsc.com/)
 - Autor: Denis Costa
 - Atualização: Esporadicamente
