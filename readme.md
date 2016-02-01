@@ -105,6 +105,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Autor: Magnun Leno
 - Atualização: Última em 04 de março de 2015
 
+[Othon Alberto](http://othonalberto.com.br/)
+
+- Autor: Othon Alberto
+- Atualização: Periodicamente
 
 [Programe em Python](http://www.programeempython.com.br)
 
