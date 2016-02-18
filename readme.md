@@ -51,11 +51,6 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Atualização: Mensal
 
 
-[Code for Cloud](http://www.codeforcloud.info/)
-- Autor: Diego Garcia
-- Autalização: Periodicamente
-
-
 [Coding..](http://www.linuxcpdti.blogspot.com.br/)
 
 - Autor: Rodrigo Gomes
@@ -70,6 +65,11 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 [Denis Costa](http://deniscostadsc.com/)
 - Autor: Denis Costa
 - Atualização: Esporadicamente
+
+
+[Diego Garcia](http://www.diego-garcia.info/)
+- Autor: Diego Garcia
+- Autalização: Periodicamente
 
 
 [Gustavo Carvalho](http://blog.gtsalles.com.br/)
