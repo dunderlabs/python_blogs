@@ -72,6 +72,11 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Autalização: Periodicamente
 
 
+[Fernando Freitas Alves](http:/fernandofreitasalves.com/)
+- Autor: Fernando Freitas Alves
+- Autalização: Esporadicamente
+
+
 [Gustavo Carvalho](http://blog.gtsalles.com.br/)
 
 - Autor: Gustavo Carvalho
