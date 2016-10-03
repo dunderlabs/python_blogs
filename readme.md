@@ -106,8 +106,10 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 
 [JungleCoders](http://junglecoders.blogspot.be/)
+
 - Autor: Nilo Ney Coutinho Menezes
 - Atualização: Bimestral
+
 
 [Mind Bending](http://mindbending.org/pt/category/python)
 
