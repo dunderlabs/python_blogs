@@ -42,13 +42,18 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 [Cássio Botaro](http://cassiobotaro.github.io/)
 - Autor: Cássio Botaro
-- Autalização: Periodicamente
+- Atualização: Periodicamente
 
 
 [Code Blog](http://marcosdev.postach.io/)
 
 - Autor: Marcos Rodrigues
 - Atualização: Mensal
+
+
+[Código Avulso](http://codigoavulso.com.br/)
+- Autor: Michell Stuttgart
+- Atualização: Esporadicamente
 
 
 [Coding..](http://www.linuxcpdti.blogspot.com.br/)
