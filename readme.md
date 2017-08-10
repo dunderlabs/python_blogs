@@ -77,6 +77,11 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 - Autalização: Periodicamente
 
 
+[Diogo M Martins](http://www.diogommartins.com/)
+- Autor: Diogo Magalhães Martins
+- Autalização: Esporadicamente
+
+
 [Fernando Freitas Alves](http:/fernandofreitasalves.com/)
 - Autor: Fernando Freitas Alves
 - Autalização: Esporadicamente
