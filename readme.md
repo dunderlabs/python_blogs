@@ -185,3 +185,14 @@ Consistirá de uma lista dos blogs, com informações como autores e frequência
 
 - Autor: Apyb
 - Atualização: Frequente
+
+[R, Python e Redes](http://neylsoncrepalde.github.io/)
+
+- Autor: Prof. Neylson Crepalde
+- Atualização: Frequente
+
+[Beck Blog](https://blog.mbeck.com.br/)
+
+- Autor: Marcus Beckenkamp
+- Atualização: Frequente
+
